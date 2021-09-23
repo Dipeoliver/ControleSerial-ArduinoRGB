@@ -1,0 +1,10 @@
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\bin\Debug\Serial Arduino.exe.config
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\bin\Debug\Serial Arduino.exe
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\bin\Debug\Serial Arduino.pdb
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\obj\Debug\Serial Arduino.csprojResolveAssemblyReference.cache
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\obj\Debug\Serial_Arduino.Form1.resources
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\obj\Debug\Serial_Arduino.Properties.Resources.resources
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\obj\Debug\Serial Arduino.csproj.GenerateResource.Cache
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\obj\Debug\Serial Arduino.exe
+c:\users\diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\obj\Debug\Serial Arduino.pdb
+C:\Users\Diego\documents\visual studio 2015\Projects\Serial Arduino\Serial Arduino\bin\Debug\AGauge.dll
